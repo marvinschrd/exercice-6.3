@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\git 3\exercice-6.3\exercice 6.3\exercice 6.3\main.cpp(14,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\git 3\exercice-6.3\exercice 6.3\exercice 6.3\main.cpp(129,20): warning C4244:  'argument' : conversion de '__int64' en 'const unsigned int', perte possible de données
+C:\git 3\exercice-6.3\exercice 6.3\exercice 6.3\main.cpp(132,24): warning C4244:  'argument' : conversion de '__int64' en 'const unsigned int', perte possible de données
+C:\git 3\exercice-6.3\exercice 6.3\exercice 6.3\main.cpp(133,16): warning C4244:  'return' : conversion de '__int64' en 'int', perte possible de données
+C:\git 3\exercice-6.3\exercice 6.3\exercice 6.3\main.cpp(138,20): warning C4018:  '<' : incompatibilité signed/unsigned
+  exercice 6.3.vcxproj -> C:\git 3\exercice-6.3\exercice 6.3\Debug\exercice 6.3.exe
